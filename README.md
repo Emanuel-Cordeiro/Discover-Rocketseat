@@ -12,4 +12,4 @@ Caso queira testar, basta seguir os seguintes passos:
 git clone https://github.com/Emanuel-Cordeiro/Discover-Rocketseat
 ```
 
-- Execute o projeto com a extensão Live Server:
+- Execute o projeto com a extensão Live Server.
